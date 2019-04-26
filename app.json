@@ -1,7 +1,7 @@
 {
-  "name": "MLH Hackathon Node.js Starter",
-  "description": "A hackathon starting point for new Node.js applications",
-  "repository": "https://github.com/MLH/mlh-hackathon-nodejs-starter.git",
-  "logo": "https://avatars1.githubusercontent.com/u/5752708?s=100",
+  "name": "Node-pvp",
+  "description": "A starting point for new Node.js application",
+  "repository": "https://github.com/TheQuinton/node-pvp.git",
+  "logo": "",
   "keywords": ["nodejs", "javascript"]
 }
